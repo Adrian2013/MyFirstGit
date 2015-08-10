@@ -11,6 +11,7 @@
 @interface ViewController : UIViewController{
     
     NSString *StrNameAdrian;
+    NSString *strAddress;
 }
 
 
