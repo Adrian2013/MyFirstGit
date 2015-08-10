@@ -13,6 +13,10 @@
     NSString *StrNameAdrian;
     NSString *strAddress;
     NSString *strTeleNo;
+    NSString *strMobileNo;
+    
+    NSString *strHomeNo;
+    NSString *strHomeAddress;
 }
 
 
