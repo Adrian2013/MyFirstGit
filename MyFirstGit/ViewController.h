@@ -12,6 +12,7 @@
     
     NSString *StrNameAdrian;
     NSString *strAddress;
+    NSString *strTeleNo;
 }
 
 
